@@ -11,5 +11,15 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false
+    "preload": false,
+    "css": {
+        ".widget-body": {
+            "body_font_family": "Helvetica"
+        },
+        ".widget-title": {
+            "widget_title_font_size": "15px",
+            "widget_title_font_weight": "normal",
+            "widget_title_text_align": "center"
+        }
+    }
 }
