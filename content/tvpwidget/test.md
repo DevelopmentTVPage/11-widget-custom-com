@@ -20,6 +20,9 @@
             "widget_title_font_size": "30px",
             "widget_title_font_weight": "normal",
             "widget_title_text_align": "center"
+        },
+        ".video-item-image-overlay": {
+            "video_item_image_overlay_opacity": "0.6"
         }
     }
 }
